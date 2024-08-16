@@ -15,7 +15,7 @@ namespace AreaUnlocker {
         private static float height = 100f;
         private static Vector2 scrollposition = Vector2.zero;
 
-        private static int reorderableWidgetId = -1;
+        private static int reorderableGroup = -1;
 
         [System.Obsolete]
         public static bool Prefix(Rect inRect, Map ___map) {
