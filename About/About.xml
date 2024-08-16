@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
-    <name>Area Unlocker forked (1.5 reorder fix)</name>
+    <name>Area Unlocker</name>
     <author>Fluffy</author>
-    <packageId>Fluffy.AreaUnlocker.forked</packageId>
-    <description>
-
-本模组修复了Area Unlocker在环世界1.5中无法排序区域的问题，原模组作者为Fluffy。
-
-This mod fixed the issue that Area Unlocker can't reorder areas in RimWorld 1.5, the original mod author is Fluffy.
-
-因为原模组本身就是一个Harmony补丁，发一个补丁的修复补丁很别扭，所以在此上传一个新的分支。此分支已经提交至github pull request，待原作者合并后会隐藏此分支模组。
-
-Because the original mod itself is a Harmony patch, it's awkward to send a patch to fix a patch, so I uploaded a new branch here. This branch has been submitted to the github pull request, and this branch mod will be hidden after the original author merges it.
-
-以下是原模组的描述：
-
-Below is the original mod description:
-
-------
-
-Removes the (arbitrary) limit to the number of areas you can create, change area colours.
+    <packageId>Fluffy.AreaUnlocker</packageId>
+    <description>Removes the (arbitrary) limit to the number of areas you can create, change area colours.
 
 &lt;size=28&gt;Notes&lt;/size&gt;
 
